@@ -1,0 +1,10 @@
+C:\Users\bazuk\Desktop\Rusty Life\RustyCore\RustyCore\bin\x64\Release\Oxide.Core.RustyCore.dll
+C:\Users\bazuk\Desktop\Rusty Life\RustyCore\RustyCore\bin\x64\Release\Oxide.Core.RustyCore.pdb
+C:\Users\bazuk\Desktop\Rusty Life\RustyCore\RustyCore\obj\x64\Release\Oxide.Core.RustyCore.dll
+C:\Users\bazuk\Desktop\Rusty Life\RustyCore\RustyCore\obj\x64\Release\Oxide.Core.RustyCore.pdb
+C:\Users\bazuk\Desktop\Rusty Life\RustyCore\RustyCore\obj\x64\Release\RustyCore.csprojResolveAssemblyReference.cache
+C:\root\rustylife\RustyCore\RustyCore\bin\x64\Release\Oxide.Core.RustyCore.dll
+C:\root\rustylife\RustyCore\RustyCore\bin\x64\Release\Oxide.Core.RustyCore.pdb
+C:\root\rustylife\RustyCore\RustyCore\obj\x64\Release\Oxide.Core.RustyCore.dll
+C:\root\rustylife\RustyCore\RustyCore\obj\x64\Release\Oxide.Core.RustyCore.pdb
+C:\root\rustylife\RustyCore\RustyCore\obj\x64\Release\RustyCore.csprojResolveAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\bazuk\Desktop\Rusty Life\RustyCore\RustyCore\bin\Debug\RustyCore.dll
+C:\Users\bazuk\Desktop\Rusty Life\RustyCore\RustyCore\bin\Debug\RustyCore.pdb
+C:\Users\bazuk\Desktop\Rusty Life\RustyCore\RustyCore\bin\Debug\Facepunch.Console.dll
+C:\Users\bazuk\Desktop\Rusty Life\RustyCore\RustyCore\bin\Debug\Facepunch.Network.dll
+C:\Users\bazuk\Desktop\Rusty Life\RustyCore\RustyCore\bin\Debug\Facepunch.UnityEngine.dll
+C:\Users\bazuk\Desktop\Rusty Life\RustyCore\RustyCore\bin\Debug\Newtonsoft.Json.dll
+C:\Users\bazuk\Desktop\Rusty Life\RustyCore\RustyCore\bin\Debug\Rust.Global.dll
+C:\Users\bazuk\Desktop\Rusty Life\RustyCore\RustyCore\bin\Debug\UnityEngine.UI.dll
+C:\Users\bazuk\Desktop\Rusty Life\RustyCore\RustyCore\obj\Debug\RustyCore.csprojResolveAssemblyReference.cache
+C:\Users\bazuk\Desktop\Rusty Life\RustyCore\RustyCore\obj\Debug\RustyCore.dll
+C:\Users\bazuk\Desktop\Rusty Life\RustyCore\RustyCore\obj\Debug\RustyCore.pdb
+C:\root\rustylife\RustyCore\RustyCore\bin\Debug\Oxide.Core.RustyCore.dll
+C:\root\rustylife\RustyCore\RustyCore\bin\Debug\Oxide.Core.RustyCore.pdb
+C:\root\rustylife\RustyCore\RustyCore\obj\Debug\Oxide.Core.RustyCore.dll
+C:\root\rustylife\RustyCore\RustyCore\obj\Debug\Oxide.Core.RustyCore.pdb

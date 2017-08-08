@@ -1,0 +1,5 @@
+C:\root\rustylife\RustyCore\RustyCore\bin\x64\Debug\Oxide.Core.RustyCore.dll
+C:\root\rustylife\RustyCore\RustyCore\bin\x64\Debug\Oxide.Core.RustyCore.pdb
+C:\root\rustylife\RustyCore\RustyCore\obj\x64\Debug\Oxide.Core.RustyCore.dll
+C:\root\rustylife\RustyCore\RustyCore\obj\x64\Debug\Oxide.Core.RustyCore.pdb
+C:\root\rustylife\RustyCore\RustyCore\obj\x64\Debug\RustyCore.csprojResolveAssemblyReference.cache

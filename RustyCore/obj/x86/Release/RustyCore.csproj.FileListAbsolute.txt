@@ -1,0 +1,4 @@
+C:\Users\bazuk\Desktop\Rusty Life\RustyCore\RustyCore\bin\x86\Release\Oxide.Ext.RustyCore.dll
+C:\Users\bazuk\Desktop\Rusty Life\RustyCore\RustyCore\bin\x86\Release\Oxide.Ext.RustyCore.pdb
+C:\Users\bazuk\Desktop\Rusty Life\RustyCore\RustyCore\obj\x86\Release\Oxide.Ext.RustyCore.dll
+C:\Users\bazuk\Desktop\Rusty Life\RustyCore\RustyCore\obj\x86\Release\Oxide.Ext.RustyCore.pdb
